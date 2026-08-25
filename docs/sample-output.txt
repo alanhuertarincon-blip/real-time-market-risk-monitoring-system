@@ -1,0 +1,20 @@
+RECOVERED VERBATIM SAMPLE (chat S4, test tick: flat tape, price hitting ~277 support repeatedly, falling to 277.60)
+
+ZECUSDT: 277.60      Posición: NO CONFIGURADA
+-----------------------------------------------------------------------------------------------
+>>> VENTAS SIN AVANCE
+Venden fuerte pero el precio no baja (277.60).
+Posible absorcion compradora.
+Que haria: Cuidado con shorts.
+Regla: Venta sin avance = trampa potencial.
+-----------------------------------------------------------------------------------------------
+ATR(15s): 1.38
+Niveles reales (perfil de volumen del tape):
+  Resistencia inmediata: 279.97
+  POC / value area:      277.22
+  Soporte clave:         277.22
+-----------------------------------------------------------------------------------------------
+RUPTURA / OBJETIVO:
+  Resistencia 279.97 a 1.7 ATR | rompe si cierra > 280.85
+  Soporte 277.22 a 0.3 ATR | rompe si cierra < 276.16
+  Estado: PROBANDO SOPORTE
